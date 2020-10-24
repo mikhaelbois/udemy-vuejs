@@ -1,2 +1,2 @@
 # udemy-vuejs
-Udemy Vue JS 2 - The Complete Guide - Exercices
+Udemy Vue JS 2 - The Complete Guide - Exercises
